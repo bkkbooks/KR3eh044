@@ -1,0 +1,136 @@
+canonical_identifier: bkk:krp/KR3eh044/v1
+canonical_location: https://kanripo.org/bkk/KR3eh044/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 葛可久十藥神書歌訣
+  identifiers:
+    krp: KR3eh044
+  tags:
+    kr-categories: KR3eh
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eh044.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eh044_000.yaml, hash: 'sha256:535bf5f3c12cd18f7e5210198cd3ab4bb3c0fc7a90ab1e8662ff19ce096566e6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eh044_000.markers.yaml, hash: 'sha256:d1eb9a8e5dfd0f15217eaa5ccf0811cb9e2c43e3a769a65423ba0a175eef3faa'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eh044_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 242
+  label: 總訣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh044_jc_000-d3.h1s1
+    span:
+    - body
+    - 242
+    - 442
+  label: 甲字十灰散
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh044_jc_000-d4.h1s1
+    span:
+    - body
+    - 442
+    - 775
+  label: 乙字花蕊石散
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh044_jc_000-d5.h1s1
+    span:
+    - body
+    - 775
+    - 1008
+  label: 丙字獨參湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh044_jc_000-d6.h1s1
+    span:
+    - body
+    - 1008
+    - 1339
+  label: 丁字保和湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh044_jc_000-d7.h1s1
+    span:
+    - body
+    - 1339
+    - 1731
+  label: 戌字保真湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh044_jc_000-d8.h1s1
+    span:
+    - body
+    - 1731
+    - 2035
+  label: 己字太平丸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh044_jc_000-d9.h1s1
+    span:
+    - body
+    - 2035
+    - 2193
+  label: 庚字沉香消化丸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh044_jc_000-d10.h1s1
+    span:
+    - body
+    - 2193
+    - 2290
+  label: 辛字潤肺膏
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh044_jc_000-d11.h1s1
+    span:
+    - body
+    - 2290
+    - 2584
+  label: 壬字白鳳膏
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh044_jc_000-d12.h1s1
+    span:
+    - body
+    - 2584
+    - 2882
+  label: 癸字補髓丹
+  type: section
+  level: 1
+hash: sha256:8df39742bff3803401669f7382fcf558552c11f22130c8e57308d8978815f9d3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
