@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eh044_000.yaml, hash: 'sha256:535bf5f3c12cd18f7e5210198cd3ab4bb3c0fc7a90ab1e8662ff19ce096566e6'}
+  - {seq: 0, filename: KR3eh044_000.yaml, hash: 'sha256:948bd883bca71b0843002692675be1d0ee9fb76a68ceb4bed4878b216fb87e4d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh044_000.markers.yaml, hash: 'sha256:d1eb9a8e5dfd0f15217eaa5ccf0811cb9e2c43e3a769a65423ba0a175eef3faa'}
+  - {seq: 0, role: markers, filename: assets/KR3eh044_000.markers.yaml, hash: 'sha256:a7f543473e5ca42aac6394b8819fe5b8b1ede229b86f19072fbaa6fbca9501a8'}
 table_of_contents:
 - ref:
     seq: 0
@@ -130,7 +130,4 @@ table_of_contents:
   label: 癸字補髓丹
   type: section
   level: 1
-hash: sha256:8df39742bff3803401669f7382fcf558552c11f22130c8e57308d8978815f9d3
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:5b6f5c0622bbc19d8f2cbcadbe51a12fda21f12f73bdf5934036422c91982a80
