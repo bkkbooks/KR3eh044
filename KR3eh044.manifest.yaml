@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eh044/v1
 canonical_location: https://kanripo.org/bkk/KR3eh044/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 葛可久十藥神書歌訣
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eh044_000.yaml, hash: 'sha256:948bd883bca71b0843002692675be1d0ee9fb76a68ceb4bed4878b216fb87e4d'}
+  - {seq: 0, filename: KR3eh044_000.yaml, hash: 'sha256:03f89de2c5229f3f9569daf76aacaeab3af3bdcea0a568415ccb1e990d86fdd8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh044_000.markers.yaml, hash: 'sha256:a7f543473e5ca42aac6394b8819fe5b8b1ede229b86f19072fbaa6fbca9501a8'}
+  - {seq: 0, role: markers, filename: assets/KR3eh044_000.markers.yaml, hash: 'sha256:97314de1692676e4d008325e182a94903827e0b1663e231ee35817f52d0a9148'}
 table_of_contents:
 - ref:
     seq: 0
@@ -130,4 +130,7 @@ table_of_contents:
   label: 癸字補髓丹
   type: section
   level: 1
-hash: sha256:5b6f5c0622bbc19d8f2cbcadbe51a12fda21f12f73bdf5934036422c91982a80
+hash: sha256:8e7f34a2f6394328b9d30b3c8a53c7e60b5a6cb0ff42e850de25c24ee381530a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
