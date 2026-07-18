@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eh044_000-jc.yaml, hash: 'sha256:948bd883bca71b0843002692675be1d0ee9fb76a68ceb4bed4878b216fb87e4d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh044_000-jc.markers.yaml, hash: 'sha256:533951b62869a79408fbc8d7dd7320bd66d300127a42ee0f92659e5d6e5d65f5'}
+  - {seq: 0, role: markers, filename: assets/KR3eh044_000-jc.markers.yaml, hash: 'sha256:ee1f9b5095a123591ec57f339cc2c6c877dc9053b8a7903ce9fd4b283b9c1580'}
 table_of_contents:
 - ref:
     seq: 0
@@ -130,4 +130,4 @@ table_of_contents:
   label: 癸字補髓丹
   type: section
   level: 1
-hash: sha256:1a50853749c945bfec083ff73da39055bfdd681f7f7c417d5ac7c46d66b39896
+hash: sha256:9d3991e78b7bba5e8f80c859b48d8b50a5d583e9fea0a6ff8fdff355c6c36666

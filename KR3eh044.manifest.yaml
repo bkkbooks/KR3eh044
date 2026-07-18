@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eh044_000.yaml, hash: 'sha256:03f89de2c5229f3f9569daf76aacaeab3af3bdcea0a568415ccb1e990d86fdd8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh044_000.markers.yaml, hash: 'sha256:97314de1692676e4d008325e182a94903827e0b1663e231ee35817f52d0a9148'}
+  - {seq: 0, role: markers, filename: assets/KR3eh044_000.markers.yaml, hash: 'sha256:1c83e09670e37ed83edcf3018eaf3c8ef510375f806f3575c0122e6892a49ccb'}
 table_of_contents:
 - ref:
     seq: 0
@@ -130,7 +130,7 @@ table_of_contents:
   label: 癸字補髓丹
   type: section
   level: 1
-hash: sha256:8e7f34a2f6394328b9d30b3c8a53c7e60b5a6cb0ff42e850de25c24ee381530a
+hash: sha256:e41a0c833fb1c7ff5599b5e57b0a3e90d5aee719a7ad2371955f72f84fc73df2
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
